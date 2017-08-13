@@ -1,0 +1,8 @@
+D:\dev\projects\apibattle\src\dotnet\CustomerAPI\bin\Debug\netcoreapp1.1\CustomerAPI.deps.json
+D:\dev\projects\apibattle\src\dotnet\CustomerAPI\bin\Debug\netcoreapp1.1\CustomerAPI.runtimeconfig.json
+D:\dev\projects\apibattle\src\dotnet\CustomerAPI\bin\Debug\netcoreapp1.1\CustomerAPI.runtimeconfig.dev.json
+D:\dev\projects\apibattle\src\dotnet\CustomerAPI\bin\Debug\netcoreapp1.1\CustomerAPI.dll
+D:\dev\projects\apibattle\src\dotnet\CustomerAPI\bin\Debug\netcoreapp1.1\CustomerAPI.pdb
+D:\dev\projects\apibattle\src\dotnet\CustomerAPI\obj\Debug\netcoreapp1.1\CustomerAPI.AssemblyInfo.cs
+D:\dev\projects\apibattle\src\dotnet\CustomerAPI\obj\Debug\netcoreapp1.1\CustomerAPI.dll
+D:\dev\projects\apibattle\src\dotnet\CustomerAPI\obj\Debug\netcoreapp1.1\CustomerAPI.pdb
